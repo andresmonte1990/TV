@@ -9,10 +9,8 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
 #EXTINF:-1,CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
-#EXTINF:-1,Caracol
-rtmp://185.63.255.26/live/ playpath=LCrivqEAys9C swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://futbolenvivoaldia.co/reproductor/canal6a.php
-#EXTINF:-1,RCN Televisión de Colombia 
-http://185.63.255.26/live/L0lGdZwMTZJW/playlist.m3u8 
+#EXTINF:-1,MOTO GP
+http://31.220.0.104/privatestreamplus/gpmotos785?keys/playlist.m3u8
 #EXTINF:-1,Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
 #EXTINF:-1,CANAL CAPITAL 
