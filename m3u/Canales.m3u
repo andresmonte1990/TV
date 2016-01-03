@@ -6,45 +6,27 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/uh1_1.m3u8?
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
 #EXTINF:-1 tvg-id="TV Guia_MI MUSICA" tvg-name="mi-musica" tvg-logo="mi-musica.png" group-title="Español",MI MUSICA 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
-#EXTINF:-1,CANTINAZO 
+#EXTINF:-1 tvg-id="TV Guia_CANTINAZO" tvg-name="CANTINAZO" tvg-logo="CANTINAZO.png" group-title="Español",CANTINAZO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8?
 
-#EXTINF:-1,Telecafe 
+#EXTINF:-1 tvg-id="TV Guia_TELECAFE" tvg-name="TELECAFE" tvg-logo="TELECAFE.png" group-title="Español",Telecafe 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
-#EXTINF:-1,CANAL CAPITAL 
+#EXTINF:-1 tvg-id="TV Guia_CANALCAPITAL" tvg-name="CANALCAPITAL" tvg-logo="CANALCAPITAL.png" group-title="Español",CANAL CAPITAL 
 http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:-1,TELEANTIOQUIA HD 
+#EXTINF:-1 tvg-id="TV Guia_teleantioquia" tvg-name="teleantioquia" tvg-logo="teleantioquia.png" group-title="Español",TELEANTIOQUIA HD 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
-#EXTINF:-1,Telemedellin 
+#EXTINF:-1 tvg-id="TV Guia_telemedellin" tvg-name="telemedellin" tvg-logo="telemedellin.png" group-title="Español",Telemedellin 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8?
-#EXTINF:-1,CosmoVision 
+#EXTINF:-1 tvg-id="TV Guia_cosmovision" tvg-name="cosmovision" tvg-logo="cosmovision.png" group-title="Español",CosmoVision 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
-#EXTINF:-1,CANAL CAPITAL 
-http://q.gs/9830047/canalcapitalltodokodi
-#EXTINF:-1,CANAL U 
+#EXTINF:-1 tvg-id="TV Guia_canalu" tvg-name="canalu" tvg-logo="canalu.png" group-title="Español",CANAL U 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
-#EXTINF:-1,TV AGRO 
+#EXTINF:-1 tvg-id="TV Guia_tvagro" tvg-name="tvagro" tvg-logo="tvagro.png" group-title="Español",TV AGRO 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8?
-#EXTINF:-1,Cable Noticias 
+#EXTINF:-1 tvg-id="TV Guia_cablenoticias" tvg-name="cablenoticias" tvg-logo="cablenoticias.png" group-title="Español",Cable Noticias 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8?
-#EXTINF:-1,El Tiempo 
+#EXTINF:-1 tvg-id="TV Guia_eltiempo" tvg-name="eltiempo" tvg-logo="eltiempo.png" group-title="Español",El Tiempo 
 http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8?
-#EXTINF:-1,UNE TV Manizales
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEZ/tu1_1.m3u8?
-#EXTINF:-1,UNE TV CARIBE 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEQ/tu1_1.m3u8?
-#EXTINF:-1,UNE TV ARMENIA 
-http://lcdn.une.net.co/v1/AUTH_HLSLIVE/UNEA/tu1_1.m3u8?
-#EXTINF:-1,TELE VIDA 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8?
-#EXTINF:-1,TRENDY MUSICA 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
-#EXTINF:-1,CANAL ANTIESTRES
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
-
-#EXTINF:-1,LIFEDESING 
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
-
 
 #EXTINF:-1 tvg-id="TV Guia_Azteca Internacional" tvg-name="Azteca_Internacional" tvg-logo="azteca-internacional.png" group-title="Español",Azteca Internacional
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
